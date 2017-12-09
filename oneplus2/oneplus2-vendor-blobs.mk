@@ -134,6 +134,7 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libEGL_adreno.so:/system/vendor/lib/egl/libEGL_adreno.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:/system/vendor/lib/egl/libGLESv1_CM_adreno.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libGLESv2_adreno.so:/system/vendor/lib/egl/libGLESv2_adreno.so \
+				vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libGLESv2_adreno.so:/system/vendor/lib/egl/libGLESv2S3D_adreno.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libQTapGLES.so:/system/vendor/lib/egl/libQTapGLES.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libq3dtools_adreno.so:/system/vendor/lib/egl/libq3dtools_adreno.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libq3dtools_esx.so:/system/vendor/lib/egl/libq3dtools_esx.so \
